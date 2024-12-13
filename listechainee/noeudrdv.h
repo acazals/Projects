@@ -4,8 +4,8 @@
 
 #include <string>  
 #include "RDV.h" 
-#include "date.h"  // Inclure le fichier d'en-tête Date
-#include "heure.h" // Inclure le fichier d'en-tête Heure
+#include "date.h"  
+#include "heure.h" 
 
 class NoeudRdv : public Rdv {
 private :
